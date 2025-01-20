@@ -28,5 +28,7 @@ The design emphasizes randomness to capture the organic, messy look of spaghetti
 
 ---
 
+## Reflection 
+
 Both portraits showcase unique approaches to food art in p5.js, highlighting the versatility of simple shapes and colors to represent food dishes. However my version is a lot more simple while ChatGPT added extra elements such as depth. I do think my sushi roll looks better than the spaghetti and meatballs; due to ChatGPT using depth the noodles dont really look like noodles, and more so like rice or orzo. 
 
